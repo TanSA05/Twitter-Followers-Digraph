@@ -18,6 +18,8 @@ After the script runs succesfully, a `dot` file will be generated in the same di
 * `circo graph.dot -Tpng -o graph.png`
 * `circo graph_small.dot -Tpng -o graph_small.png`
 
+The `.png` files will contain the digraph between nodes containing screen names of each user. Red nodes denote common followers between any two users. You may change the color or style of common nodes by editing the corresponding `dot` files. (In this case `graph.dot`)
+
 # Resources
 * http://www.ibm.com/developerworks/library/os-dataminingrubytwitter/#list11
 * Twitter REST API
