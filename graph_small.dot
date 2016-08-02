@@ -1,0 +1,240 @@
+digraph followers {
+  node [ fontname=Arial, fontsize=10, penwidth=4 ]
+"Kalinowska_K" [style = "filled", color = "black", fillcolor = "red"]
+"izuroxx" [style = "filled", color = "black", fillcolor = "red"]
+"RailsGirlsSoC" [style = "filled", color = "black", fillcolor = "red"]
+"senorhuidobro" [style = "filled", color = "black", fillcolor = "red"]
+"AnannyaUberoi" [style = "filled", color = "black", fillcolor = "red"]
+"RubyCatsTeam" [style = "filled", color = "black", fillcolor = "red"]
+"Team_Twitches" [style = "filled", color = "black", fillcolor = "red"]
+"AnannyaUberoi" [style = "filled", color = "black", fillcolor = "red"]
+"VrindaM8" [style = "filled", color = "black", fillcolor = "red"]
+"Team_Twitches" [style = "filled", color = "black", fillcolor = "red"]
+"RailsGirlsSoC" [style = "filled", color = "black", fillcolor = "red"]
+"AnannyaUberoi" [style = "filled", color = "black", fillcolor = "red"]
+"RubyCatsTeam" [style = "filled", color = "black", fillcolor = "red"]
+"Team_Twitches" [style = "filled", color = "black", fillcolor = "red"]
+"Kalinowska_K" [style = "filled", color = "black", fillcolor = "red"]
+"izuroxx" [style = "filled", color = "black", fillcolor = "red"]
+"RailsGirlsSoC" [style = "filled", color = "black", fillcolor = "red"]
+"senorhuidobro" [style = "filled", color = "black", fillcolor = "red"]
+"AnannyaUberoi" [style = "filled", color = "black", fillcolor = "red"]
+"RubyCatsTeam" [style = "filled", color = "black", fillcolor = "red"]
+"Team_Twitches" [style = "filled", color = "black", fillcolor = "red"]
+"SiliconArmada" [style = "filled", color = "black", fillcolor = "red"]
+"AnannyaUberoi" [style = "filled", color = "black", fillcolor = "red"]
+"sadikshagautam" [style = "filled", color = "black", fillcolor = "red"]
+"Team_Twitches" [style = "filled", color = "black", fillcolor = "red"]
+"AnaSofiaPinho" [style = "filled", color = "black", fillcolor = "red"]
+"RailsGirlsSoC" [style = "filled", color = "black", fillcolor = "red"]
+"AnannyaUberoi" [style = "filled", color = "black", fillcolor = "red"]
+"Team_Twitches" [style = "filled", color = "black", fillcolor = "red"]
+"RubyCatsTeam" [style = "filled", color = "black", fillcolor = "red"]
+"RailsGirlsSoC" [style = "filled", color = "black", fillcolor = "red"]
+"AnannyaUberoi" [style = "filled", color = "black", fillcolor = "red"]
+"roryaronson" [style = "filled", color = "black", fillcolor = "red"]
+"KaUlah_Team" [style = "filled", color = "black", fillcolor = "red"]
+"sukruta" [style = "filled", color = "black", fillcolor = "red"]
+"senorhuidobro" [style = "filled", color = "black", fillcolor = "red"]
+"Team_Twitches" [style = "filled", color = "black", fillcolor = "red"]
+"shellycoen" [style = "filled", color = "black", fillcolor = "red"]
+"Kalinowska_K" [style = "filled", color = "black", fillcolor = "red"]
+"rgau2016" [style = "filled", color = "black", fillcolor = "red"]
+"Teamjoda2016" [style = "filled", color = "black", fillcolor = "red"]
+"Bhatnagar_Juhi" [style = "filled", color = "black", fillcolor = "red"]
+"RubyCatsTeam" [style = "filled", color = "black", fillcolor = "red"]
+"loadtocode" [style = "filled", color = "black", fillcolor = "red"]
+"izuroxx" [style = "filled", color = "black", fillcolor = "red"]
+"simonv3" [style = "filled", color = "black", fillcolor = "red"]
+"AnannyaUberoi" [style = "filled", color = "black", fillcolor = "red"]
+"Team_Twitches" [style = "filled", color = "black", fillcolor = "red"]
+"AnannyaUberoi" [style = "filled", color = "black", fillcolor = "red"]
+"Team_Twitches" [style = "filled", color = "black", fillcolor = "red"]
+"joshsmith" [style = "filled", color = "black", fillcolor = "red"]
+"RailsGirlsSoC" [style = "filled", color = "black", fillcolor = "red"]
+"AnannyaUberoi" [style = "filled", color = "black", fillcolor = "red"]
+"Team_Twitches" [style = "filled", color = "black", fillcolor = "red"]
+"RubyCatsTeam" [style = "filled", color = "black", fillcolor = "red"]
+  "sadikshagautam" -> "sadikshagautam"
+    "sadikshagautam"  ->  "Simon3085"
+    "sadikshagautam"  ->  "Kalinowska_K"
+    "sadikshagautam"  ->  "dagrunzpal"
+    "sadikshagautam"  ->  "izuroxx"
+    "sadikshagautam"  ->  "SiliconArmada"
+    "sadikshagautam"  ->  "RailsGirlsSoC"
+    "sadikshagautam"  ->  "senorhuidobro"
+    "sadikshagautam"  ->  "AnannyaUberoi"
+    "sadikshagautam"  ->  "RubyCatsTeam"
+    "sadikshagautam"  ->  "VrindaM8"
+    "sadikshagautam"  ->  "CodementorIO"
+    "sadikshagautam"  ->  "Team_Twitches"
+    "sadikshagautam"  ->  "01_m5"
+    "sadikshagautam"  ->  "Ksaroj"
+    "sadikshagautam"  ->  "TwistedTriangle"
+    "sadikshagautam"  ->  "RailsCampNYC"
+    "sadikshagautam"  ->  "dainmiller"
+    "sadikshagautam"  ->  "sudeep_bimali"
+    "sadikshagautam"  ->  "fettwech"
+    "sadikshagautam"  ->  "HaskellTopNews"
+    "sadikshagautam"  ->  "mikrofusion"
+    "sadikshagautam"  ->  "nivdul"
+    "sadikshagautam"  ->  "cyrusinnovation"
+    "sadikshagautam"  ->  "_milap"
+    "sadikshagautam"  ->  "sagunshre"
+  "sadikshagautam" -> "Vrindam8"
+    "Vrindam8"  ->  "RailsGirlsSoC"
+    "Vrindam8"  ->  "xyzcoode"
+    "Vrindam8"  ->  "AnannyaUberoi"
+    "Vrindam8"  ->  "roryaronson"
+    "Vrindam8"  ->  "PerwaizDr"
+    "Vrindam8"  ->  "KaUlah_Team"
+    "Vrindam8"  ->  "sukruta"
+    "Vrindam8"  ->  "senorhuidobro"
+    "Vrindam8"  ->  "sadikshagautam"
+    "Vrindam8"  ->  "Team_Twitches"
+    "Vrindam8"  ->  "shellycoen"
+    "Vrindam8"  ->  "Kalinowska_K"
+    "Vrindam8"  ->  "ramya_r06"
+    "Vrindam8"  ->  "rgau2016"
+    "Vrindam8"  ->  "Teamjoda2016"
+    "Vrindam8"  ->  "sahar_siddiqui"
+    "Vrindam8"  ->  "Bhatnagar_Juhi"
+    "Vrindam8"  ->  "RubyCatsTeam"
+    "Vrindam8"  ->  "loadtocode"
+    "Vrindam8"  ->  "izuroxx"
+    "Vrindam8"  ->  "simonv3"
+    "Vrindam8"  ->  "victori11660667"
+    "Vrindam8"  ->  "AnaSofiaPinho"
+    "Vrindam8"  ->  "Thetanyamlhotra"
+    "Vrindam8"  ->  "kbuddyfarm"
+  "sadikshagautam" -> "senorhuidobro"
+    "senorhuidobro"  ->  "allenan_"
+    "senorhuidobro"  ->  "chrisbmarquez"
+    "senorhuidobro"  ->  "horstjens"
+    "senorhuidobro"  ->  "shroombab"
+    "senorhuidobro"  ->  "AnaSofiaPinho"
+    "senorhuidobro"  ->  "robit_sk"
+    "senorhuidobro"  ->  "wupabozacam"
+    "senorhuidobro"  ->  "BotsHackathon"
+    "senorhuidobro"  ->  "sadikshagautam"
+    "senorhuidobro"  ->  "AnannyaUberoi"
+    "senorhuidobro"  ->  "Ravicious"
+    "senorhuidobro"  ->  "robertSPD"
+    "senorhuidobro"  ->  "lyndsey48674282"
+    "senorhuidobro"  ->  "knaggita"
+    "senorhuidobro"  ->  "VrindaM8"
+    "senorhuidobro"  ->  "TeamEchoUg"
+    "senorhuidobro"  ->  "TanSA05"
+    "senorhuidobro"  ->  "Team_Twitches"
+    "senorhuidobro"  ->  "NicoNautilus"
+    "senorhuidobro"  ->  "jekyll_octopod"
+    "senorhuidobro"  ->  "sebnozzi"
+    "senorhuidobro"  ->  "elunkin1995"
+    "senorhuidobro"  ->  "hugustustu"
+    "senorhuidobro"  ->  "mmatuzo"
+    "senorhuidobro"  ->  "SenguptaSrishti"
+  "sadikshagautam" -> "simonv3"
+    "simonv3"  ->  "krisbulman"
+    "simonv3"  ->  "PatienceReich"
+    "simonv3"  ->  "joshsmith"
+    "simonv3"  ->  "GOODS4GOODuk"
+    "simonv3"  ->  "ConnorMelton22"
+    "simonv3"  ->  "larrykim"
+    "simonv3"  ->  "MarinKaltani"
+    "simonv3"  ->  "substack"
+    "simonv3"  ->  "RailsGirlsSoC"
+    "simonv3"  ->  "JGAURORA3D"
+    "simonv3"  ->  "AnannyaUberoi"
+    "simonv3"  ->  "kdengineer"
+    "simonv3"  ->  "Team_Twitches"
+    "simonv3"  ->  "klistrod"
+    "simonv3"  ->  "OSCommunityCamp"
+    "simonv3"  ->  "AuthorLRossi"
+    "simonv3"  ->  "michaellnorth"
+    "simonv3"  ->  "RubyCatsTeam"
+    "simonv3"  ->  "opencamps"
+    "simonv3"  ->  "uracreative"
+    "simonv3"  ->  "EPIC_PowerElite"
+    "simonv3"  ->  "ChromeExtenNews"
+    "simonv3"  ->  "jeremylist"
+    "simonv3"  ->  "NenaNguyen"
+    "simonv3"  ->  "lisawalmsley"
+  "sadikshagautam" -> "roryaronson"
+    "roryaronson"  ->  "luisamarangon"
+    "roryaronson"  ->  "davidbuckingham"
+    "roryaronson"  ->  "WevolverApp"
+    "roryaronson"  ->  "aleksandarb"
+    "roryaronson"  ->  "AfroManWbbc"
+    "roryaronson"  ->  "arnacortazzo"
+    "roryaronson"  ->  "_sophiakc"
+    "roryaronson"  ->  "ntotao"
+    "roryaronson"  ->  "shwood"
+    "roryaronson"  ->  "RichardMannXXX"
+    "roryaronson"  ->  "ledell"
+    "roryaronson"  ->  "joshsmith"
+    "roryaronson"  ->  "reallifetopanga"
+    "roryaronson"  ->  "make"
+    "roryaronson"  ->  "MarcelloMasili"
+    "roryaronson"  ->  "DJMusicNetwork"
+    "roryaronson"  ->  "koliver_writes"
+    "roryaronson"  ->  "FeivelSails"
+    "roryaronson"  ->  "Kikedondo"
+    "roryaronson"  ->  "jadiferlouise"
+    "roryaronson"  ->  "sbassoon"
+    "roryaronson"  ->  "markedtek"
+    "roryaronson"  ->  "TheHowdn"
+    "roryaronson"  ->  "nextProtein"
+    "roryaronson"  ->  "JonathanHoleton"
+  "sadikshagautam" -> "TanSA05"
+    "TanSA05"  ->  "fidothe"
+    "TanSA05"  ->  "Kalinowska_K"
+    "TanSA05"  ->  "GlobalGrit"
+    "TanSA05"  ->  "Miss_Friday"
+    "TanSA05"  ->  "dipesh_25"
+    "TanSA05"  ->  "RailsGirlsSoC"
+    "TanSA05"  ->  "AnannyaUberoi"
+    "TanSA05"  ->  "subhashthehack"
+    "TanSA05"  ->  "roryaronson"
+    "TanSA05"  ->  "SrajanBhatnagar"
+    "TanSA05"  ->  "KaUlah_Team"
+    "TanSA05"  ->  "senorhuidobro"
+    "TanSA05"  ->  "Team_Twitches"
+    "TanSA05"  ->  "shellycoen"
+    "TanSA05"  ->  "womensleadershp"
+    "TanSA05"  ->  "sukruta"
+    "TanSA05"  ->  "persnaldevelop"
+    "TanSA05"  ->  "coquical312"
+    "TanSA05"  ->  "rgau2016"
+    "TanSA05"  ->  "Teamjoda2016"
+    "TanSA05"  ->  "Bhatnagar_Juhi"
+    "TanSA05"  ->  "RubyCatsTeam"
+    "TanSA05"  ->  "loadtocode"
+    "TanSA05"  ->  "izuroxx"
+    "TanSA05"  ->  "simonv3"
+  "sadikshagautam" -> "RailsGirlsSoc"
+    "RailsGirlsSoc"  ->  "IamSieWyWy"
+    "RailsGirlsSoc"  ->  "phaenomen"
+    "RailsGirlsSoc"  ->  "adrianvalenz_"
+    "RailsGirlsSoc"  ->  "NatlAfterSchool"
+    "RailsGirlsSoc"  ->  "PetaBytesZetta"
+    "RailsGirlsSoc"  ->  "harrydeanhudson"
+    "RailsGirlsSoc"  ->  "_codejitsu"
+    "RailsGirlsSoc"  ->  "SoundCloudDev"
+    "RailsGirlsSoc"  ->  "BeckyRNK"
+    "RailsGirlsSoc"  ->  "monteirobrena"
+    "RailsGirlsSoc"  ->  "jjamespdx"
+    "RailsGirlsSoc"  ->  "berlinering"
+    "RailsGirlsSoc"  ->  "JillianDKeenan"
+    "RailsGirlsSoc"  ->  "dnikolos"
+    "RailsGirlsSoc"  ->  "SindEinGedicht"
+    "RailsGirlsSoc"  ->  "EuniceNyandat"
+    "RailsGirlsSoc"  ->  "sunseed875"
+    "RailsGirlsSoc"  ->  "ayesha_ishrath"
+    "RailsGirlsSoc"  ->  "nicole_kirchler"
+    "RailsGirlsSoc"  ->  "RPenningBourne"
+    "RailsGirlsSoc"  ->  "yad_hakim"
+    "RailsGirlsSoc"  ->  "superfoodstar"
+    "RailsGirlsSoc"  ->  "drealcharbar"
+    "RailsGirlsSoc"  ->  "SiliconArmada"
+    "RailsGirlsSoc"  ->  "kazumalab"
+}
